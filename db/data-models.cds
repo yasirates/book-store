@@ -3,6 +3,7 @@ namespace my.bookstore;
 entity Books {
     key id     : Integer;
         name   : String(100);
+        selam  : string
         author : Association to many Authors on author.book = $self;
 }
 
