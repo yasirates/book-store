@@ -1,0 +1,8 @@
+{
+  "scopes": [],
+  "attributes": [],
+  "role-templates": [],
+  "oauth2-configuration": {
+    "redirect-uris": ["https://d1e1c912trial-dev-book-store.cfapps.us10-001.hana.ondemand.com/login/callback"]
+  }
+}
